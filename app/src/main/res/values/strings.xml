@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">EasyTravel</string>
+
+    <string name="anuDesc">Anuradhapura is a major city in Sri Lanka. Travell with me get you all around Anurashapura in just 2 days.</string>
+    <string name="kandyDesc">Kandy is a large city in Central Sri Lanka. Kandy is famed for Temple of Tooth and for many secred Buddhist sites.</string>
+    <string name="colomboDesc">Colombo is the capital city of Sri Lanka. It has a long history as a port on ancient east-west trade routes ruled successively by the Portuguese, Dutch and British.</string>
+    <string name="nuwaraeliyaDesc">Nuwaraeliya is a city in the tea country hills of central Sri Lanka. The natural Landscaped Hakgala Botnical Garden displays roses and tree forms and shelters monkeys and blue magpies.</string>
+
+
+    <string name="topic_main_view">Easy Travel</string>
+    <string name="hint_city_spinner">Select city for tour</string>
+    <string-array name="city">
+        <item>Anuradhapura</item>
+        <item>Kandy</item>
+        <item>Colombo</item>
+        <item>NuwaraEliya</item>
+    </string-array>
+
+    <string name="btn_logout">Logout</string>
+    <string name="btn_help">Help</string>
+    <string name="btn_about">About</string>
+    <string name="btn_view_booking">View Bookings</string>
+
+    <string name="txt_app_about_header">Welcome to Easy travel</string>
+
+    <string name="txt_app_about">
+
+        \t\t\t\t\t\t\t
+        Your ideal travel partner for smooth planning and great experiences. You can bid farewell to
+        disorganized notes and an assortment of travel-related information with Easy Travel.
+
+        \n\n \t\t\t\t\t\t\t
+
+        Our mission is to encourage and empower visitors all around the Sri Lanka to discover the country with
+        ease, joy, and wonder.
+
+        \n\n \t\t\t\t\t\t\t
+
+        Our mission is to transform how people travel by offering a thorough and user-friendly platform that
+        makes planning trips easier and improves the overall experience.
+    </string>
+
+    <string name="txt_app_help_header">We\'re glad you\'re here on Easy travel</string>
+
+    <string name="txt_app_help">
+
+        \t\t\t\t\t\t\t
+        We are glad to have you aboard. We are here to help you utilize the features and functionalities of our
+        application to the fullest. We\'re here to help you along the way whether you\'re just beginning or a
+        seasoned veteran. Search through our extensive how-to articles, guidance, and frequently asked
+        questions to discover the solutions you require right away.
+
+        \n\n \t\t\t\t\t\t\t
+
+        Please feel free to contact our knowledgeable support staff by using the \'Contact Us\' option if you ever
+        need assistance or have any questions.
+
+        \n\n \t\t\t\t\t\t\t
+
+        Our first priority is making sure you are delighted. Thank you for selecting us, and enjoy your
+        exploration.
+
+        \n\n
+
+        Phone – 0112 2424155
+        \n
+        Email – easytravel@gmail.com
+    </string>
+
+    <string name="star_line5">************************</string>
+
+    <string name="txt_not_account">Don\'t have a account?</string>
+    <string name="txt_account_create">Create a new account</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">SignUp</string>
+    <string name="txt_already_account">Already have a account?</string>
+    <string name="txt_login">Login</string>
+    <string name="msg_empty_fields">The fields should not be empty</string>
+    <string name="txt_radio_btn_student">Student</string>
+    <string name="txt_radio_btn_teacher">Teacher</string>
+
+</resources>

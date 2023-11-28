@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.travelwithme">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Activities.SignupActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Activities.LoginActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity android:name=".Activities.AboutActivity" />
+        <activity android:name=".Activities.HelpActivity" />
+        <activity
+            android:name=".Activities.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activities.HomeActivity" />
+        <activity android:name=".Activities.AnuradhapuraActivity" />
+        <activity android:name=".Activities.AddTourActivity" />
+        <activity android:name=".Activities.BookNowActivity" />
+        <activity android:name=".Activities.KandyActivity" />
+        <activity android:name=".Activities.ViewBookingsActivity" />
+        <activity android:name=".Activities.ColomboActivity" />
+        <activity android:name=".Activities.NuwaraEliyaActivity" />
+    </application>
+
+</manifest>
